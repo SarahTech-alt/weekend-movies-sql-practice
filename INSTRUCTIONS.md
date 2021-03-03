@@ -1,8 +1,8 @@
-# SQL Challenges
+# SQL JOIN Practice Questions
 
 The following database practice is intended to help you prepare for your solo projects with common SQL tasks.
 
-## SQL JOIN Practice Questions
+---
 
 ## Set-up
 
