@@ -6,7 +6,7 @@
 INSERT your SQL here :)
 
 -- 2. Get the count of movies that have each genre.  
---  Make sure you get back all the genres!
+-- Don't worry about unused genres (Disaster has 0 movies)
 
 Example Result:
 ---------------------------------
@@ -17,8 +17,6 @@ Example Result:
 | Comedy        | 1             |
 ---------------------------------
 | Drama         | 5             |
----------------------------------
-| Disaster      | 0             |
 ---------------------------------
 
 
